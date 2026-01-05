@@ -1,0 +1,39 @@
+<svg width="345" height="225" viewBox="0 0 345 225" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="345" height="225" fill="white"/>
+
+  <!-- Green border -->
+  <rect x="2" y="2" width="341" height="221" fill="none" stroke="#22c55e" stroke-width="3"/>
+
+  <!-- Customer Name -->
+  <text x="172" y="28" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="black">HIDEHOUSE UK LTD.</text>
+
+  <!-- ATTN Box -->
+  <rect x="15" y="36" width="315" height="20" fill="none" stroke="black" stroke-width="1" stroke-dasharray="4,2"/>
+  <text x="172" y="51" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="black">ATTN: MEHDI ALI</text>
+
+  <!-- Info Grid -->
+  <text x="15" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="black">DATE:</text>
+  <text x="85" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="black">05-01-26</text>
+
+  <text x="15" y="91" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="black">BRAND:</text>
+  <text x="85" y="91" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="black">THE BOSTONIANS</text>
+
+  <text x="15" y="107" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="black">CUST REF:</text>
+  <text x="85" y="107" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="black">BOST262MH01</text>
+
+  <text x="15" y="123" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="black">OUR REF:</text>
+  <text x="85" y="123" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="black">SMP-2025-0027</text>
+
+  <text x="15" y="139" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="black">STYLE:</text>
+  <text x="85" y="139" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="black">MEN'S LEATHER JACKET</text>
+
+  <text x="15" y="155" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="black">COLOR:</text>
+  <text x="85" y="155" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="black">BLACK</text>
+
+  <text x="15" y="171" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="black">LEATHER:</text>
+  <text x="85" y="171" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="black">100% REAL LEATHER</text>
+
+  <text x="15" y="187" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="black">COMMENTS:</text>
+  <text x="85" y="187" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="black">SWATCH FOR APPROVAL</text>
+</svg>
